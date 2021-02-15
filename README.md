@@ -13,6 +13,6 @@ The goal is to make it easy to:
 ## Sample Notebooks
 
 |Notebook|Google Colab link|
-|---|---|
+|---|:---:|
 |Rendering Pixar's _Kitchen Set_ using Arnold|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/philsawicki/usd-imaging-on-google-colab/blob/main/render-kitchen-set.ipynb)|
 |Build recipe for USD libraries on Google Colab|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/philsawicki/usd-imaging-on-google-colab/blob/main/build.ipynb)|
